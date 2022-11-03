@@ -2860,6 +2860,12 @@
     "version": "0.7.0+commit.9e61f92b.Emscripten.clang"
   },
   "networks": {
+    "80001": {
+      "events": {},
+      "links": {},
+      "address": "0x890Bdd1f17eD8CC77Cb12BF8b3958516D929Fe6b",
+      "transactionHash": "0x41ab914eb948fb2dba69e1e1ff7a8832a2da3349214f458dab585381d460065a"
+    },
     "5777": {
       "events": {},
       "links": {},
